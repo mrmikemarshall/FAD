@@ -7,7 +7,7 @@
 
 ### Terraform 
 1. CLI
-   - [CLI](https://www.terraform.io/docs/cli-index.html)
+   - [CLI](https://www.terraform.io/docs/commands/index.html)
 2. Functions Reference
    - [Functions](https://www.terraform.io/docs/configuration/functions.html)
 1. Providers

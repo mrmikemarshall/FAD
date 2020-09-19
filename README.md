@@ -27,5 +27,5 @@
 ## Kubernetes
 - [Reference](https://kubernetes.io/docs/reference/)
 1. [API](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.19/)
-  - [kubectl CLI](https://kubernetes.io/docs/reference/kubectl/overview/)
-  - [kubeadm CLI](https://kubernetes.io/docs/reference/setup-tools/kubeadm/)
+  1. [kubectl CLI](https://kubernetes.io/docs/reference/kubectl/overview/)
+  1. [kubeadm CLI](https://kubernetes.io/docs/reference/setup-tools/kubeadm/)
